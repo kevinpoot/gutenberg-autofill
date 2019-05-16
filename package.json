@@ -4,7 +4,7 @@
     "author": "Kevin Poot",
     "description": "Set a number of items that have to be added to the Gutenberg block. Includes Taxonomies.",
     "license": "MIT",
-    "repository": "Kevinioo/gutenberg-autofiller",
+    "repository": "kevinpoot/gutenberg-autofill",
     "main": "index.js",
     "keywords": [
         "gutenberg",
